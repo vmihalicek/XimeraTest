@@ -1,0 +1,1 @@
+../ximeraLatex/ximera.cls
